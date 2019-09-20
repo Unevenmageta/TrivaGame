@@ -1,0 +1,56 @@
+#Box{
+
+ border-width: 5px;
+ border-style: solid;
+ text-align: center;
+
+ line-height: 75px;
+ 
+ background-color: lightblue;
+
+
+
+}
+
+#content{
+   
+    
+    overflow:auto;
+    padding: 10px;
+
+}
+#head{
+    text-align:center;
+
+    color: darkgreen;
+}
+#time{
+    text-align: center;
+    color:darkblue;
+}
+
+
+
+.contentQ{
+ font-size: 25px;
+
+}
+
+
+
+#results{
+
+    text-align: center;
+    /* background-color: lightblue; */
+}
+
+
+#again{
+    text-align: center;
+}
+
+
+body{
+    background-color: lightcoral;
+    
+}
